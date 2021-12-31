@@ -4,7 +4,7 @@ Enthalten sind Konstruktionsdateien für Modul Kopfstücke gemäß aktueller Nor
 
 Geeignetes Material zum Laserschneiden ist 10mm Pappelsperrholz, ggf. Birke Multiplex. Beim Lasern gilt es generell auf die vorgegebene Schnittweite zu achten. Es stehen DXF-Exporte mit Schnittweiten (Kerf-Width) von 0,15 und 0,30mm zur Verfügung.
 
-Auf Basis der Autodesk Fusion 360 Datei (.f3d) lassen, sich mittels dem integriertem CAM Modul, Kopfstücke auch fräsen! Die einzelnen liegen in dieser Datei in Form von Komponenten vor.
+Auf Basis der Autodesk Fusion 360 Datei (.f3d) lassen sich, mittels dem integriertem CAM Modul, Kopfstücke auch fräsen! Die einzelnen Kopfstücke liegen in dieser Datei in Form von Komponenten vor.
 
 Derzeit sind folgende Kopfstücke enthalten:
 
