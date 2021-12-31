@@ -2,7 +2,7 @@
 
 Dieses GitHub Repository enthält Konstruktionsdateien zum Selbstbau von Spur 0 Modulen. Die Konstruktionsdateien liegen sowohl im Ausgangsformat Autodesk Fusion 360 vor, als auch in diversen Exporten, um zum Beispiel Bauteile im Laserverfahren zu schneiden oder 3D zu drucken.
 
-Weiterführende Informationen zu diesem Projekt sind der Projekt Null Homepage zu entnehmen: [Projekt Null Spur 0 Module](https://projekt-null.de/projekte/spur-0-module/)
+Weiterführende Informationen zu diesem Projekt sind der Projekt Null Homepage zu entnehmen: [Projekt Null Spur 0 Module](https://projekt-null.de/projekte/spur-0-module/kopfstuecke/)
 
 ## Inhalt
 
