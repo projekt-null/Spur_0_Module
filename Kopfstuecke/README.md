@@ -8,9 +8,9 @@ Auf Basis der Autodesk Fusion 360 Datei (.f3d) lassen sich, mittels dem integrie
 
 Derzeit sind folgende Kopfstücke enthalten:
 
-- FREMO Spur 0 600mm Breite eingleisig, symmetrisch
-- FREMO Spur 0 400mm Breite eingleisig, symmetrisch
-- FREMO Entwurf Spur 0 689mm Breite zweigleisig (Gleis-Mittenabstand 89mm), symmetrisch
+- FREMO Spur 0 600mm Breite, eingleisig, symmetrisch
+- FREMO Spur 0 400mm Breite, eingleisig, symmetrisch
+- FREMO Entwurf Spur 0 689mm Breite, zweigleisig (Hauptbahn mit Gleis Mittenabstand von 89mm, entspr. 4 Meter im Vorbild), symmetrisch
 
 ## Inhalt
 
