@@ -21,7 +21,3 @@ Das Open Source Projekt *Projekt-Null Spur 0 Module* steht unter der LGLPv3 Lize
 Mehr zur LGPLv3 Lizenz: https://www.gnu.org/licenses/lgpl-3.0.de.html
 
 Alternativ wendet euch bei Fragen per E-Mail an: info@projekt-null.de
-
-Ausgeschlossen von den Lizenzbedingungen sind
-
-- alle Konstruktionsdateien von Kopfstücken die einer geltenden Norm entsprechen, z.B. FREMO
